@@ -1,0 +1,12 @@
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\Assemblies\ModName.dll
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\Assemblies\ModName.pdb
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.GeneratedMSBuildEditorConfig.editorconfig
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.AssemblyInfoInputs.cache
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.AssemblyInfo.cs
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.csproj.Up2Date
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.dll
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Source\obj\Debug\ModName.pdb
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Assemblies\ModName.dll
+F:\SteamLibrary\steamapps\common\RimWorld\Mods\LearnMagic\Assemblies\ModName.pdb

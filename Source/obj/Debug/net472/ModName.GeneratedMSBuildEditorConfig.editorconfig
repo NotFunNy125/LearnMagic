@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ModName
+build_property.ProjectDir = D:\Rimworld Modding\3-Mod Folder Template\ModName\Source\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

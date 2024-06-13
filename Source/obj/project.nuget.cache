@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVkftiJZEcwtax4zPjbiCPKP9DucBWUdsbtDDD44prRyp7Z8oR6oEzbsFY13QcAew7M/WShBEiCxHWiHFpUnjw==",
+  "success": true,
+  "projectFilePath": "F:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\LearnMagic\\Source\\LearnMagic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dadul\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512",
+    "C:\\Users\\dadul\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4063\\krafs.rimworld.ref.1.5.4063.nupkg.sha512",
+    "C:\\Users\\dadul\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
